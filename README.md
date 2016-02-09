@@ -11,7 +11,7 @@ Installation
 =======
 * Download via composer
 ```bash
-$ composer require jmd/rest-bundle dev-master
+$ composer require jmd/rest-bundle
 ```
 * Add into `app/AppKernel.php`:
 ```php
