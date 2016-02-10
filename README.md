@@ -113,6 +113,10 @@ After you make implementation, you can send GET request and will get result like
 		{
 			"id": 1,
 			"name": "Test client"
+		},
+		{
+			"id": 2,
+			"name": "Test client 2"
 		}
 	]
 }
@@ -127,4 +131,4 @@ After you make implementation, you can send GET request and will get result like
 }
 ```
 
-**What's all!**
+**That's all!**
